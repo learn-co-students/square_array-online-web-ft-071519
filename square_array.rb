@@ -6,6 +6,6 @@ def square_array(array)
   squared
 end
 
-def square_with_collect(array)
-  array.collect { |number| number*number }
-end
+# def square_with_collect(array)
+ # array.collect { |number| number*number }
+# end
